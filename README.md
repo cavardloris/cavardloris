@@ -21,8 +21,7 @@ Voici les technologies que j'ai étudié pour le moment.
 **Bases de données :** `phpMyAdmin`, `SQL`  
 
 <div align="left">
-
-  <img src="https://skillicons.dev/icons?i=php,js,python,c&perline=12",width="" />
+  <img src="https://skillicons.dev/icons?i=php,js,python,c&perline=12" />
   <img src="https://skillicons.dev/icons?i=html,css&perline=6" />
   <img src="https://skillicons.dev/icons?i=mysql&perline=5" />
 </div>
