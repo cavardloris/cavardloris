@@ -7,7 +7,7 @@
 
 Je m'appelle Loris Cavard, j'ai 18 ans et je suis actuellement en première année de Bachelor developpeur FullStack à l'école Coda à Orléans. Je recherche actuellement une alternance (1 semaine à l'école/ 3 semaines en entreprise) pour ma seconde année de Bachelor, à la rentrée de septembre 2026.
 
-* 🌱 **J'apprends en ce moment** : Le langage PHP.
+* 🌱 **J'apprends en ce moment** : Le JavaScript.
 * 💼 **Je recherche une alternance** : Loiret/Paris .
 * ✨ **Mes passions** : Le sport automibile 🏎️, le football ⚽, les actualités politiques 📰.
 
