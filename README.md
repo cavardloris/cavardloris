@@ -21,13 +21,11 @@ Voici les technologies que j'ai étudié pour le moment.
 **Bases de données :** `phpMyAdmin`, `SQL`  
 
 <div align="left">
-<img src="assets/python.png" alt="Logo Python" width="100">
-<img src="assets/c.png" alt="Logo C" width="100">
-<img src="assets/html.png" alt="Logo HTML" width="100">
-<img src="assets/css.png" alt="Logo CSS" width="100">
-<img src="assets/PHP.png" alt="Logo PHP" width="100">
-<img src="assets/SQL.png" alt="Logo SQL" width="100">
-<img src="assets/phpmyadmin.png" alt="Logo SQL" width="100">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,python,c&perline=12" />
+  <img src="https://skillicons.dev/icons?i=html,css&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mysql&perline=5" />
+</p>
 </div>
 
 
